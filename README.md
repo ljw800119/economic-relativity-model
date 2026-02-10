@@ -1,4 +1,4 @@
-<img width="1645" height="864" alt="image" src="https://github.com/user-attachments/assets/0d6e4c3f-9584-4a24-a580-7d84000b2083" /># economic-relativity-model
+# economic-relativity-model
 Repository for the Economic Relativity Model (ERM) to analyze economic crises and systemic behavior.
 This paper establishes the foundational structure of the Economic Relativity Model (ERM), a parsimonious structural framework for modeling economic output under systemic friction and incentive constraints. The ERM formalizes output as a nonlinear function of potential production capacity, irreducible costs, price pressure, and institutional inefficiency, yielding a general law of constrained production applicable across micro, meso, and macro economic scales.
 
